@@ -22,7 +22,7 @@ Taylor Smith
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Meeting Log
- [log] (https://drive.google.com/open?id=10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE)
+[log](https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing)
 
 
 ### Support or Contact
