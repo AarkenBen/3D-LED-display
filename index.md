@@ -14,7 +14,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<a href="https://github.com/AarkenBen/3D-LED-display.git">Github</a>
 
 - Bulleted
 - List
@@ -24,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/AarkenBen/3D-LED-display.git) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
