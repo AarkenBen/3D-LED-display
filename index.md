@@ -19,12 +19,5 @@ Taylor Smith
 
 [Slack](https://ece4710.slack.com/messages/C91743HQR/team/) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## Meeting Log
 [log](https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing)
-
-
-### Support or Contact
-
-
