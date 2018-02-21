@@ -25,13 +25,13 @@ Syntax highlighted code block
 
 
 ```
-1. [github](https://github.com/AarkenBen/3D-LED-display.git) and ![Image](src)
-2. [gdrive](https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing)
-3. [github](https://github.com/AarkenBen/3D-LED-display.git) 
+//1. [github](https://github.com/AarkenBen/3D-LED-display.git) and ![Image](src)
+//2. [google drive](https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing)
+//3. [github](https://github.com/AarkenBen/3D-LED-display.git) 
 
 [github](https://github.com/AarkenBen/3D-LED-display.git) and ![Image](src)
 
-[gdrive](https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing)
+[google drive](https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing)
 
 [github](https://github.com/AarkenBen/3D-LED-display.git) 
 
