@@ -5,8 +5,11 @@ We are excited as a group to create a 3D LED display that provides an interactiv
 
 ## Members
 Derek Burns
+
 Aaron Benson
+
 Brandon Ward
+
 Taylor Smith
 
 ## Group Links
@@ -14,7 +17,7 @@ Taylor Smith
 
 [google drive](https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing)
 
-[Slack](https://github.com/AarkenBen/3D-LED-display.git) 
+[Slack](https://ece4710.slack.com/messages/C91743HQR/team/) 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
