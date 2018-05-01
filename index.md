@@ -21,3 +21,9 @@ Taylor Smith
 
 ## Meeting Log
 [log](https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing)
+
+
+## Renders
+
+![Side Render](https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR)
+![Top Render](https://drive.google.com/open?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
