@@ -26,4 +26,4 @@ Taylor Smith
 ## Renders
 
 ![Side Render](https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR)
-![Top Render](https://drive.google.com/open?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
+![Top Render](https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
