@@ -19,9 +19,13 @@ Taylor Smith
 
 [Slack](https://ece4710.slack.com/messages/C91743HQR/team/) 
 
+## FALL SCHEDULE:
+
+### MILESTONES
+
+
 ## Meeting Log
 [log](https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing)
-
 
 ## Renders
 
@@ -29,6 +33,7 @@ Taylor Smith
 ![Top Render](https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
 
 ## Images of Construction
+
 ### INITIAL PLANNING
 ![Initial Planning](https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr)
 ### TESTING PCB SCHEMATIC
