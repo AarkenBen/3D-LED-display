@@ -30,13 +30,13 @@ Taylor Smith
 
 ## Images of Construction
 ### PCBs
-![LEDs](https://drive.google.com/open?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV)
-![PCBS Arrive](https://drive.google.com/open?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN)
-![PCBs](https://drive.google.com/open?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3)
-![Initial Base](https://drive.google.com/open?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB)
-![Initial Planning](https://drive.google.com/open?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr)
-![Top View Base](https://drive.google.com/open?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ)
-![Base with Initial Rod Prototype](https://drive.google.com/open?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV)
-![Testing PCB Schematic as well as LEDs](https://drive.google.com/open?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ)
-![Initial Rotation Test](https://drive.google.com/open?id=1myVJ6ev06PABheD4suXdOBM-ZFlRMVLW)
+![LEDs](https://drive.google.com/uc?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV)
+![PCBS Arrive](https://drive.google.com/uc?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN)
+![PCBs](https://drive.google.com/uc?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3)
+![Initial Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB)
+![Initial Planning](https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr)
+![Top View Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ)
+![Base with Initial Rod Prototype](https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV)
+![Testing PCB Schematic as well as LEDs](https://drive.google.com/uc?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ)
+![Initial Rotation Test](https://drive.google.com/uc?id=1myVJ6ev06PABheD4suXdOBM-ZFlRMVLW)
 
