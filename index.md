@@ -27,3 +27,16 @@ Taylor Smith
 
 ![Side Render](https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR)
 ![Top Render](https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
+
+## Images of Construction
+### PCBs
+![LEDs](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![PCBS Arrive](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![PCBs](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Initial Base](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Initial Planning](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Top View Base](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Base with Initial Rod Prototype](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Testing PCB Schematic as well as LEDs](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+![Initial Rotation Test](https://drive.google.com/drive/folders/11sWPoj2Ft5yFrp_TlGQlXtEsA1ZckIiv)
+
