@@ -1,7 +1,12 @@
 # LED boyz 
 
-### Mission Statement
-We are excited as a group to create a 3D LED display that provides an interactive experience for our users. The 3D LED display will be a cube composed of multiple LED’s separated by about half an inch where each individual LED will be addressable which will allow us to display different 3D models. The way in which our users will interact with this device is still unknown, but our goal is to challenge our capabilities as Computer Engineering students by working in a team aspect to push our knowledge even further in order to gain an understanding of 3D rendering using LEDs. Creating a 3D rendering will be a complicated task. It will require us to determine the dimensions and depth of a person/object in software which isn’t an easy task. Once overcoming these challenges and being successful in performing this task we will be able to narrow the focus on the best way for our product to be used.  For example, this technology will provide the opportunity to be used in the medical aspect as an alternative to X-rays and CAT scans by providing a higher resolution image of internal functions of the human body. The applications are endless once we have reached our goal of creating our interactive 3D LED display.
+### Project Description
+We plan to design an LED display that applies the idea of persistence of vision to give the user the effect of seeing 3D images. Persistence of vision is applied to our display by having LEDs rotate around a single central axis, creating the illusion of a full volumetric display.
+While designing our 3D LED display, we will make an attempt at higher resolution (pixel density) than previous projects that have used this approach. Another important challenge that we want to address is having a high number of colors that can be displayed. Other designs that we have seen only turn the LEDs fully on or fully off. That means unicolor designs only have one bit of color, while designs that use RGB only get 3 bits of color (8 colors). We speculate that these limits were imposed simply because driving a 3D rotating display is much harder than a single layer display. Ideally, PWM will be used for each LED in our design in order to get a wider range of colors. We aim to be able to Our current vision for the project is to have a display capable of 16 vertical pixels, 16 radial pixels, and 100 sections around the circumference (akin to a pie chart with 100 equal sections, where the radius is 16 units and a depth of 16). This gives us about 25,600 “pixels” to work with. We ideally want the display to produce video output that is somewhere between 30 - 60 Hz, similar to a typical display seen on TVs, phones, or computers.
+The general design of our project involves having most of our control logic (main board) located on the rotating display itself. This is namely because finding an inexpensive slip ring that fits our needs is rather difficult. This means that we need to be able to wirelessly transmit the data to the controller through either bluetooth or wifi. Up through the central axis is some sort of rod/dowel that allows us to attach 16 individual PCBs (each containing 16 LEDs). Each PCB has an LED driver on it, which takes in serial data and translates that into the appropriate brightness for each LED. The assembly also needs some kind of Hall-effect sensor in order to synchronize the rotation of the display with the controller.
+The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
+
+
 
 ## Members
 Derek Burns
@@ -26,11 +31,11 @@ Taylor Smith
   - Test out first pcb for functionality. Assigned Members: All Members (8/27 - 9/2)
   - Finish Initial Construction (This involves the base being done with built in compartments for hardware components). Assigned          Members: Aaron Benson (8/27 - 9/9)
   - Finish writing compiler for object file given by CAD software based on a simple 3D image. Assigned Members: Taylor Smith, Brandon Ward (8/27 - 9/9)
-  - Finish Construction of initial prototype with a few PCBs and all hardware components. Assigned Members: All Members (9/9 - 9/16)
-  - Begin writing software for initial prototype testing. Assigned Members: All Members (9/16 - 9/23)
+  - Finish Construction of display with a few PCBs and all hardware components. Assigned Members: All Members (9/9 - 9/16)
+  - Begin writing software for display testing. Assigned Members: All Members (9/16 - 9/23)
   - Continue implementation of Application. Assigned Members: Brandon Ward, Taylor Smith (9/23 - 9/30)
-  - Continue writing software for initial prototype and potential final product of project. Assigned Members: Derek Burns, Aaron Benson (9/23 - 9/30)
-  -
+  - Continue writing software for display final product of project. Assigned Members: Derek Burns, Aaron Benson (9/23 - 9/30)
+  - Finish writing software for display and potential final
   
 
 ## Meeting Log
