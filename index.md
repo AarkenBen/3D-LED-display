@@ -61,4 +61,7 @@ Taylor Smith
 ![Initial Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB)
 ![Top View Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ)
 ![Base with Initial Rod Prototype](https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV)
+### INITIAL SCREENSHOT OF THE APPLICATION
+![Screenshot 1 of App](https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC)
+![Screenshot 2 of App](https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX)
 
