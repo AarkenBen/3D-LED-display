@@ -28,14 +28,18 @@ Taylor Smith
 ### MILESTONES
   - Finish Ordering Parts. Assigned Members: Derek Burns, Aaron Benson (8/27 - 9/2)
   - Begin writing compiler for object file given by CAD software. Assigned Members: Brandon Ward, Taylor Smith (8/27 - 9/2)
-  - Test out first pcb for functionality. Assigned Members: All Members (8/27 - 9/2)
+  - Assemble and test pcb for functionality. Assigned Members: All Members (8/27 - 9/2)
   - Finish Initial Construction (This involves the base being done with built in compartments for hardware components). Assigned          Members: Aaron Benson (8/27 - 9/9)
   - Finish writing compiler for object file given by CAD software based on a simple 3D image. Assigned Members: Taylor Smith, Brandon Ward (8/27 - 9/9)
   - Finish Construction of display with a few PCBs and all hardware components. Assigned Members: All Members (9/9 - 9/16)
-  - Begin writing software for display testing. Assigned Members: All Members (9/16 - 9/23)
+  - Begin writing software for display testing which includes setting up the correct rotation for resolution as well as setting up WiFi communication. Assigned Members: All Members (9/16 - 9/23)
+  - Begin initial testing of sending images over wireless network. Assigned Members: All Members (9/16 - 9/23)
   - Continue implementation of Application. Assigned Members: Brandon Ward, Taylor Smith (9/23 - 9/30)
-  - Continue writing software for display final product of project. Assigned Members: Derek Burns, Aaron Benson (9/23 - 9/30)
-  - Finish writing software for display and potential final
+  - Continue writing software for display. Assigned Members: Derek Burns, Aaron Benson (9/23 - 9/30)
+  - Finish writing software for display. Assigned Members: All Members (9/30 - 10/7)
+  - Transition into animations on display. Assigned Members: All Members (10/7 - 10/14)
+  - Fine tune display this include fixing bugs or adding extra features. Assigned Members: All Members
+  
   
 
 ## Meeting Log
