@@ -56,27 +56,27 @@
 
 <div id="Renders" class="tabcontent">
   <h3>Renders</h3>
-    <img src="https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR">
-    <img src="https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG">
+    <img class="displayed" src="https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR">
+    <img class="displayed" src="https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG">
 </div>
 
 <div id="Images" class="tabcontent">
   <h3>Initial Planning</h3>
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr">
   <h3>Testing PCB Schematic</h3>
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ">
   <h3>PCBs</h3>
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN">
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3">
   <h3>LEDs</h3>
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV">
   <h3>PCBs</h3>
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB">
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ">
-  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ">
+  <img class="displayed" src="https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV">
   <h3>Initial Screenshot of the Application</h3>
-  <img src="https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC">
-  <img src="https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX">
+  <img class="displayed" src="https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC">
+  <img class="displayed" src="https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX">
 </div>
 
 <h1> Project Description </h1>
@@ -94,6 +94,14 @@ The control board takes in the appropriate scene data and converts it into the r
 </body>
 <style>
 /* Style the tab buttons */
+p {
+    text-align: center;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    
 .tablink {
     background-color: #555;
     color: white;
