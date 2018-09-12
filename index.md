@@ -70,9 +70,6 @@ The control board takes in the appropriate scene data and converts it into the r
     <li><a href="Slack">https://ece4710.slack.com/messages/C91743HQR/team/</a></li>
   </ul>
 </div>
-  
-## Meeting Log
-[log](https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing)
 
 ## Renders
 
@@ -109,7 +106,7 @@ The control board takes in the appropriate scene data and converts it into the r
     cursor: pointer;
     padding: 14px 16px;
     font-size: 17px;
-    width: 25%;
+    width: 20%;
 }
 
 /* Change background color of buttons on hover */
