@@ -103,7 +103,7 @@ The control board takes in the appropriate scene data and converts it into the r
     cursor: pointer;
     padding: 14px 16px;
     font-size: 17px;
-    width: 35%;
+    width: 33%;
 }
 
 /* Change background color of buttons on hover */
