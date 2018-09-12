@@ -113,7 +113,7 @@ The control board takes in the appropriate scene data and converts it into the r
 
 /* Set default styles for tab content */
 .tabcontent {
-    color: white;
+    color: black;
     display: none;
     padding: 50px;
     text-align: center;
