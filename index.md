@@ -104,7 +104,7 @@ The control board takes in the appropriate scene data and converts it into the r
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 10px 20px;
     font-size: 17px;
     width: 20%;
 }
