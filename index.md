@@ -1,4 +1,4 @@
-<body style="width: 100%">
+
 <h1> LED boyz </h1> 
 <button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
 <button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
@@ -88,10 +88,6 @@ The general design of our project involves having most of our control logic (mai
 
 The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.</p>
 
-    <!-- Put everything that you want to display here -->
-
-
-</body>
 <style>
 /* Style the tab buttons */
 p {
