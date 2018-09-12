@@ -118,17 +118,17 @@ The control board takes in the appropriate scene data and converts it into the r
 
 /* Set default styles for tab content */
 .tabcontent {
-    color: black;
+    color: white;
     display: none;
     padding: 50px;
     text-align: center;
 }
 
 /* Style each tab content individually */ 
-#Members {background-color:black;}
-#Group Links {background-color:green;}
-#Milestones {background-color:blue;}
-#Renders {background-color:orange;}
+#Members {background-color:maroon;}
+#Group Links {background-color:maroon;}
+#Milestones {background-color:maroon;}
+#Renders {background-color:maroon;}
 </style>
 <script>
 function openCity(cityName, elmnt, color) {
