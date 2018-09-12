@@ -1,3 +1,4 @@
+<body style="width: 90%">
 # LED boyz 
 
 ### Project Description
@@ -8,7 +9,7 @@ While designing our 3D LED display, we will make an attempt at higher resolution
 The general design of our project involves having most of our control logic (main board) located on the rotating display itself. This is namely because finding an inexpensive slip ring that fits our needs is rather difficult. This means that we need to be able to wirelessly transmit the data to the controller through either bluetooth or wifi. Up through the central axis is some sort of rod/dowel that allows us to attach 16 individual PCBs (each containing 16 LEDs). Each PCB has an LED driver on it, which takes in serial data and translates that into the appropriate brightness for each LED. The assembly also needs some kind of Hall-effect sensor in order to synchronize the rotation of the display with the controller.
 
 The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
-<body style="width: 1000px">
+
     <!-- Put everything that you want to display here -->
 
 <button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
