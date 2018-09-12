@@ -99,7 +99,7 @@ The control board takes in the appropriate scene data and converts it into the r
     cursor: pointer;
     padding: 10px 20px;
     font-size: 17px;
-    width: 20%;
+    width: 15%;
 }
 
 /* Change background color of buttons on hover */
@@ -111,7 +111,7 @@ The control board takes in the appropriate scene data and converts it into the r
 .tabcontent {
     color: black;
     display: none;
-    padding: 50px;
+    padding: 80px;
     text-align: center;
 }
 
