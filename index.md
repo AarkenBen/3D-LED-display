@@ -111,7 +111,7 @@ The control board takes in the appropriate scene data and converts it into the r
 .tabcontent {
     color: black;
     display: none;
-    padding: 80px;
+    padding: 30px;
     text-align: center;
 }
 
