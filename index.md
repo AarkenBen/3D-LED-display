@@ -1,11 +1,11 @@
 <body style="width: 90%">
 <h1> LED boyz </h1> 
-<button class="tablink" onclick="openCity('Members', this, 'maroon')"id="defaultClose">Members</button>
-<button class="tablink" onclick="openCity('Group Links', this, 'maroon')"id="defaultClose">Group Links</button>
-<button class="tablink" onclick="openCity('Milestones', this, 'maroon')"id="defaultClose">Milestones</button>
-<button class="tablink" onclick="openCity('Renders', this, 'maroon')"id="defaultClose">Renders</button>
-<button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')"id="defaultClose">Meeting Log</button>
-<button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')"id="defaultClose">Images of Construction</button>
+<button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
+<button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
+<button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
+<button class="tablink" onclick="openCity('Renders', this, 'maroon')">Renders</button>
+<button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')">Meeting Log</button>
+<button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')">Images of Construction</button>
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
@@ -103,7 +103,7 @@ The control board takes in the appropriate scene data and converts it into the r
     cursor: pointer;
     padding: 14px 16px;
     font-size: 17px;
-    width: 15%;
+    width: 35%;
 }
 
 /* Change background color of buttons on hover */
