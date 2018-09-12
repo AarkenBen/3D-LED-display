@@ -9,14 +9,12 @@ The general design of our project involves having most of our control logic (mai
 
 The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
 
-<div style="padding:35px">
-  <button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
-  <button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
-  <button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
-  <button class="tablink" onclick="openCity('Renders', this, 'maroon')">Renders</button>
-  <button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')">Meeting Log</button>
-  <button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')">Images of Construction</button>
-<div>
+<button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
+<button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
+<button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
+<button class="tablink" onclick="openCity('Renders', this, 'maroon')">Renders</button>
+<button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')">Meeting Log</button>
+<button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')">Images of Construction</button>
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
@@ -91,7 +89,7 @@ The control board takes in the appropriate scene data and converts it into the r
 </div>
 
 <style>
-  /* Style the tab buttons */
+/* Style the tab buttons */
 .tablink {
     background-color: #555;
     color: white;
@@ -99,7 +97,7 @@ The control board takes in the appropriate scene data and converts it into the r
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 14px 16px;
     font-size: 17px;
     width: 15%;
 }
@@ -111,13 +109,11 @@ The control board takes in the appropriate scene data and converts it into the r
 
 /* Set default styles for tab content */
 .tabcontent {
-    color: black;
+    color: white;
     display: none;
-    padding: 30px;
+    padding: 50px;
     text-align: center;
 }
-
-
 </style>
 <script>
 function openCity(cityName, elmnt, color) {
