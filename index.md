@@ -1,7 +1,28 @@
 # LED boyz 
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
+
+### Project Description
+We plan to design an LED display that applies the idea of persistence of vision to give the user the effect of seeing 3D images. Persistence of vision is applied to our display by having LEDs rotate around a single central axis, creating the illusion of a full volumetric display.
+
+While designing our 3D LED display, we will make an attempt at higher resolution (pixel density) than previous projects that have used this approach. Another important challenge that we want to address is having a high number of colors that can be displayed. Other designs that we have seen only turn the LEDs fully on or fully off. That means unicolor designs only have one bit of color, while designs that use RGB only get 3 bits of color (8 colors). We speculate that these limits were imposed simply because driving a 3D rotating display is much harder than a single layer display. Ideally, PWM will be used for each LED in our design in order to get a wider range of colors. We aim to be able to Our current vision for the project is to have a display capable of 16 vertical pixels, 16 radial pixels, and 100 sections around the circumference (akin to a pie chart with 100 equal sections, where the radius is 16 units and a depth of 16). This gives us about 25,600 “pixels” to work with. We ideally want the display to produce video output that is somewhere between 30 - 60 Hz, similar to a typical display seen on TVs, phones, or computers.
+
+The general design of our project involves having most of our control logic (main board) located on the rotating display itself. This is namely because finding an inexpensive slip ring that fits our needs is rather difficult. This means that we need to be able to wirelessly transmit the data to the controller through either bluetooth or wifi. Up through the central axis is some sort of rod/dowel that allows us to attach 16 individual PCBs (each containing 16 LEDs). Each PCB has an LED driver on it, which takes in serial data and translates that into the appropriate brightness for each LED. The assembly also needs some kind of Hall-effect sensor in order to synchronize the rotation of the display with the controller.
+
+The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
+
+<button class="tablink" onclick="openCity('London', this, 'red')" id="defaultOpen">London</button>
+<button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
+<button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
+<button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
+
+<div id="Members" class="tabcontent">
+  <h3>Members</h3>
+  <p>Derek Burns
+
+     Aaron Benson
+
+     Brandon Ward
+
+     Taylor Smith</p>
 </div>
 
 <div id="Paris" class="tabcontent">
@@ -18,21 +39,6 @@
   <h3>Oslo</h3>
   <p>Oslo is the capital of Norway.</p>
 </div>
-
-<button class="tablink" onclick="openCity('London', this, 'red')" id="defaultOpen">London</button>
-<button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
-<button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
-<button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
-### Project Description
-We plan to design an LED display that applies the idea of persistence of vision to give the user the effect of seeing 3D images. Persistence of vision is applied to our display by having LEDs rotate around a single central axis, creating the illusion of a full volumetric display.
-
-While designing our 3D LED display, we will make an attempt at higher resolution (pixel density) than previous projects that have used this approach. Another important challenge that we want to address is having a high number of colors that can be displayed. Other designs that we have seen only turn the LEDs fully on or fully off. That means unicolor designs only have one bit of color, while designs that use RGB only get 3 bits of color (8 colors). We speculate that these limits were imposed simply because driving a 3D rotating display is much harder than a single layer display. Ideally, PWM will be used for each LED in our design in order to get a wider range of colors. We aim to be able to Our current vision for the project is to have a display capable of 16 vertical pixels, 16 radial pixels, and 100 sections around the circumference (akin to a pie chart with 100 equal sections, where the radius is 16 units and a depth of 16). This gives us about 25,600 “pixels” to work with. We ideally want the display to produce video output that is somewhere between 30 - 60 Hz, similar to a typical display seen on TVs, phones, or computers.
-
-The general design of our project involves having most of our control logic (main board) located on the rotating display itself. This is namely because finding an inexpensive slip ring that fits our needs is rather difficult. This means that we need to be able to wirelessly transmit the data to the controller through either bluetooth or wifi. Up through the central axis is some sort of rod/dowel that allows us to attach 16 individual PCBs (each containing 16 LEDs). Each PCB has an LED driver on it, which takes in serial data and translates that into the appropriate brightness for each LED. The assembly also needs some kind of Hall-effect sensor in order to synchronize the rotation of the display with the controller.
-
-The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
-
-
 
 ## Members
 Derek Burns
@@ -122,7 +128,7 @@ Taylor Smith
 }
 
 /* Style each tab content individually */ 
-#London {background-color:red;}
+#London {background-color:black;}
 #Paris {background-color:green;}
 #Tokyo {background-color:blue;}
 #Oslo {background-color:orange;}
