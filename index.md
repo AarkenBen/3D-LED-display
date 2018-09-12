@@ -112,6 +112,7 @@ The control board takes in the appropriate scene data and converts it into the r
     color: white;
     display: none;
     padding: 50px;
+    width: 35%;
     text-align: center;
 }
 </style>
