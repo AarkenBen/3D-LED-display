@@ -29,7 +29,11 @@ The control board takes in the appropriate scene data and converts it into the r
 
 <div id="Group Links" class="tabcontent">
   <h3>Group Links</h3>
-  <p>Paris is the capital of France.</p> 
+  <ul>
+    <li><a href="github">https://github.com/AarkenBen/3D-LED-display.git</a></li>
+    <li><a href="google drive">https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing</a></li>
+    <li><a href="Slack">https://ece4710.slack.com/messages/C91743HQR/team/</a></li>
+  </ul>
 </div>
 
 <div id="Milestones" class="tabcontent">
