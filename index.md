@@ -17,13 +17,13 @@ The control board takes in the appropriate scene data and converts it into the r
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
   <ul>
-    <li>Derek Burns<\li>
+    <li>Derek Burns</li>
 
-    <li>Aaron Benson<\li>
+    <li>Aaron Benson</li>
 
-    <li>Brandon Ward<\li>
+    <li>Brandon Ward</li>
 
-    <li>Taylor Smith<\li>
+    <li>Taylor Smith</li>
   </ul>
 </div>
 
