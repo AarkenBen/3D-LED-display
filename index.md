@@ -1,4 +1,4 @@
-<body style="width: 90%">
+<body style="width: 100%">
 <h1> LED boyz </h1> 
 <button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
 <button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
