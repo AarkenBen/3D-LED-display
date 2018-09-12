@@ -23,14 +23,14 @@
 <div id="Group Links" class="tabcontent">
   <h3>Group Links</h3>
   <ul style="list-style-type:circle">
-    <li><a href="google drive">https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs">Google Drive</a></li>
   </ul>
 </div>
 
 <div id="Meeting Log" class="tabcontent">
   <h3>Meeting Log</h3>
   <ul style="list-style-type:circle">
-    <li><a href="log">"https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing"</a></li>
+    <li><a href=""https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing"">Meeting Log</a></li>
   </ul>
 </div>
 
