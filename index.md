@@ -9,10 +9,10 @@ The general design of our project involves having most of our control logic (mai
 
 The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
 
-<button class="tablink" onclick="openCity('Members', this, 'black')" id="defaultOpen">Members</button>
-<button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
-<button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
-<button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
+<button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
+<button class="tablink" onclick="openCity('Paris', this, 'maroon')">Group Links</button>
+<button class="tablink" onclick="openCity('Tokyo', this, 'maroon')">Milestones</button>
+<button class="tablink" onclick="openCity('Oslo', this, 'maroon')">Renders</button>
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
@@ -24,22 +24,26 @@ The control board takes in the appropriate scene data and converts it into the r
     <li>Brandon Ward<\li>
 
     <li>Taylor Smith<\li>
-  <\ul>
+  </ul>
 </div>
 
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
+<div id="Group Links" class="tabcontent">
+  <h3>Group Links</h3>
   <p>Paris is the capital of France.</p> 
 </div>
 
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
+<div id="Milestones" class="tabcontent">
+  <h3>Milestones</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
-<div id="Oslo" class="tabcontent">
-  <h3>Oslo</h3>
-  <p>Oslo is the capital of Norway.</p>
+<div id="Renders" class="tabcontent">
+  <h3>Renders</h3>
+  <ul>
+    <li><a href="github">https://github.com/AarkenBen/3D-LED-display.git</a></li>
+    <li><a href="google drive">https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing</a></li>
+    <li><a href="Slack">https://ece4710.slack.com/messages/C91743HQR/team/</a></li>
+  </ul>
 </div>
 
 ## Group Links
