@@ -97,9 +97,9 @@ The control board takes in the appropriate scene data and converts it into the r
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 35px;
+    padding: 14px 16px;
     font-size: 17px;
-    width: 15%;
+    width: 40%;
 }
 
 /* Change background color of buttons on hover */
