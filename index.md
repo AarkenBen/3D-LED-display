@@ -94,7 +94,8 @@ Taylor Smith
 ![Screenshot 1 of App](https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC)
 ![Screenshot 2 of App](https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX)
 
-/* Style the tab buttons */
+<style>
+  /* Style the tab buttons */
 .tablink {
     background-color: #555;
     color: white;
@@ -125,4 +126,4 @@ Taylor Smith
 #Paris {background-color:green;}
 #Tokyo {background-color:blue;}
 #Oslo {background-color:orange;}
-
+</style>
