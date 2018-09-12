@@ -127,7 +127,7 @@ Taylor Smith
 #Tokyo {background-color:blue;}
 #Oslo {background-color:orange;}
 </style>
-
+<script>
 function openCity(cityName, elmnt, color) {
     // Hide all elements with class="tabcontent" by default */
     var i, tabcontent, tablinks;
@@ -151,3 +151,4 @@ function openCity(cityName, elmnt, color) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+</script>
