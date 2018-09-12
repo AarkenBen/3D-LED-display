@@ -16,13 +16,15 @@ The control board takes in the appropriate scene data and converts it into the r
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
-  <p>Derek Burns
+  <ul>
+    <li>Derek Burns<\li>
 
-     Aaron Benson
+    <li>Aaron Benson<\li>
 
-     Brandon Ward
+    <li>Brandon Ward<\li>
 
-     Taylor Smith</p>
+    <li>Taylor Smith<\li>
+  <\ul>
 </div>
 
 <div id="Paris" class="tabcontent">
@@ -112,7 +114,7 @@ The control board takes in the appropriate scene data and converts it into the r
 
 /* Set default styles for tab content */
 .tabcontent {
-    color: white;
+    color: black;
     display: none;
     padding: 50px;
     text-align: center;
