@@ -5,7 +5,7 @@
 <button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
 <button class="tablink" onclick="openCity('Renders', this, 'maroon')">Renders</button>
 <button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')">Meeting Log</button>
-<button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')">Images of Construction</button>
+<button class="tablink" onclick="openCity('Images', this, 'maroon')">Images</button>
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
@@ -60,7 +60,7 @@
     <img src="https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG">
 </div>
 
-<div id="Images of Construction" class="tabcontent">
+<div id="Images" class="tabcontent">
   <h3>Initial Planning</h3>
   <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr">
   <h3>Testing PCB Schematic</h3>
