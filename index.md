@@ -30,7 +30,7 @@
 <div id="Meeting Log" class="tabcontent">
   <h3>Meeting Log</h3>
   <ul style="list-style-type:circle">
-    <li><a href=""https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing"">Meeting Log</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing">Meeting Log</a></li>
   </ul>
 </div>
 
