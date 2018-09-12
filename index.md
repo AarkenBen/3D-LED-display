@@ -14,6 +14,7 @@ The control board takes in the appropriate scene data and converts it into the r
 <button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
 <button class="tablink" onclick="openCity('Renders', this, 'maroon')">Renders</button>
 <button class="tablink" onclick="openCity('Meeting Log', this, 'maroon')">Meeting Log</button>
+<button class="tablink" onclick="openCity('Images of Construction', this, 'maroon')">Images of Construction</button>
 
 <div id="Members" class="tabcontent">
   <h3>Members</h3>
@@ -38,7 +39,7 @@ The control board takes in the appropriate scene data and converts it into the r
 <div id="Meeting Log" class="tabcontent">
   <h3>Meeting Log</h3>
   <ul style="list-style-type:circle">
-    <li><a href="log">https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing</a></li>
+    <li><a href="log">"https://docs.google.com/spreadsheets/d/10BULNX3W8Pe1tVQ8uWuWExLomMm6pmAVpwlJKckAVkE/edit?usp=sharing"</a></li>
   </ul>
 </div>
 
@@ -64,36 +65,28 @@ The control board takes in the appropriate scene data and converts it into the r
 
 <div id="Renders" class="tabcontent">
   <h3>Renders</h3>
-  <ul>
-    <li><a href="github">https://github.com/AarkenBen/3D-LED-display.git</a></li>
-    <li><a href="google drive">https://drive.google.com/drive/folders/1opPyBsIggKdWkcSAGUZWy1F-bnmxONfs?usp=sharing</a></li>
-    <li><a href="Slack">https://ece4710.slack.com/messages/C91743HQR/team/</a></li>
-  </ul>
+    <img src="https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR">
+    <img src="https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG">
 </div>
 
-## Renders
-
-![Side Render](https://drive.google.com/uc?id=1slueZF2XAzvBDNuEbjfk2PSPkp6LjseR)
-![Top Render](https://drive.google.com/uc?id=1ylLEANoDU1Hy2asmGXqWDmeGF1TjhTjG)
-
-## Images of Construction
-
-### INITIAL PLANNING
-![Initial Planning](https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr)
-### TESTING PCB SCHEMATIC
-![Testing PCB Schematic as well as LEDs](https://drive.google.com/uc?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ)
-### PCBs
-![PCBS Arrive](https://drive.google.com/uc?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN)
-![PCBs](https://drive.google.com/uc?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3)
-### LEDs
-![LEDs](https://drive.google.com/uc?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV)
-### BASE
-![Initial Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB)
-![Top View Base](https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ)
-![Base with Initial Rod Prototype](https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV)
-### INITIAL SCREENSHOT OF THE APPLICATION
-![Screenshot 1 of App](https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC)
-![Screenshot 2 of App](https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX)
+<div id="Images of Construction" class="tabcontent">
+  <h3>Initial Planning</h3>
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxV2ZTTVRhYmFsQW44VktiMGVObmNOak50dDBr">
+  <h3>Testing PCB Schematic</h3>
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMDBUZnNMTHBvZ29UMEVKWko3TFF5eWJjOGxZ">
+  <h3>PCBs</h3>
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbG5oaEZZUDR2VWdzMHNFNFM0dnFWZVk4OTlN">
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxOV9tV3Y4dXRKT0NqZzQ0VXBwam5kRHNlMVd3">
+  <h3>LEDs</h3>
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxMjd3ckwwQ0Q3Nmo4YmFfU3lTaDJkTlo0ZUpV">
+  <h3>PCBs</h3>
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxbzV3T01rY3RsTEd2dnZ2bVNsTm9DbWU3X2hB">
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxc0s3bEZ5TnRmOVh0SHlzbDRZZU1ORDdsRWNJ">
+  <img src="https://drive.google.com/uc?id=0BzQo-qRDoGUxcDFabUotdHRNNnBQU1JfTk84YlVnbzVnSkdV">
+  <h3>Initial Screenshot of the Application</h3>
+  <img src="https://drive.google.com/uc?id=1EtbJ-kmtxXDG5XIZcMuA98oASoYSePNC">
+  <img src="https://drive.google.com/uc?id=1fTBORdrqIezGGtu3JY0vn4CprrhMFxJX">
+</div>
 
 <style>
   /* Style the tab buttons */
