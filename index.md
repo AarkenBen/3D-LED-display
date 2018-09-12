@@ -97,7 +97,8 @@ The control board takes in the appropriate scene data and converts it into the r
 p {
     text-align: center;
 }
-IMG.displayed {
+  
+img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
