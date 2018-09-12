@@ -9,7 +9,7 @@ The general design of our project involves having most of our control logic (mai
 
 The control board takes in the appropriate scene data and converts it into the required pixel data. This requires implementing a graphics rendering algorithm in order to work with polar coordinates. When the assembly is at the appropriate rotation, the control board will send out the corresponding serial pixel data to each arm of the display. Once a full rotation is made, the next frame is processed/displayed.
 
-<button class="tablink" onclick="openCity('London', this, 'red')" id="defaultOpen">London</button>
+<button class="tablink" onclick="openCity('Members', this, 'black')" id="defaultOpen">Members</button>
 <button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
 <button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
 <button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
@@ -39,15 +39,6 @@ The control board takes in the appropriate scene data and converts it into the r
   <h3>Oslo</h3>
   <p>Oslo is the capital of Norway.</p>
 </div>
-
-## Members
-Derek Burns
-
-Aaron Benson
-
-Brandon Ward
-
-Taylor Smith
 
 ## Group Links
 [github](https://github.com/AarkenBen/3D-LED-display.git)
