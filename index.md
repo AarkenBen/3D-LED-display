@@ -1,6 +1,6 @@
 
 <h1> Vision </h1>
-<h2>A Persistence of vision 3D LED display</h2>
+<h2> A Persistence of vision 3D LED display </h2>
 <button class="tablink" onclick="openCity('Members', this, 'maroon')">Members</button>
 <button class="tablink" onclick="openCity('Group Links', this, 'maroon')">Group Links</button>
 <button class="tablink" onclick="openCity('Milestones', this, 'maroon')">Milestones</button>
